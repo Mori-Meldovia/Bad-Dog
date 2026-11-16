@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c331a75-f80e-450b-ba70-e639801711b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Materials/MA_Food_Color.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Materials/MA_Food_Color.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bar_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bar_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bottle_002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bottle_002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Burger_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Burger_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Cheesecake_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Cheesecake_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Chips_008.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Chips_008.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Donut_002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Donut_002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Ice_cream_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Ice_cream_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Sandwich_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Sandwich_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Shrimp_001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Shrimp_001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Watermelon_002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Watermelon_002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_4.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1332508771715954" />
+      <entry key="MS500" value="2.163191571820785" />
+      <entry key="S2" value="2.7465471373526085" />
+      <entry key="S5" value="2.8975002729457686" />
+      <entry key="S10" value="3.1368373183388805" />
+      <entry key="S30" value="7.739155148204446" />
+      <entry key="S60" value="16.488401989328324" />
+      <entry key="M2" value="30.91687781174623" />
+      <entry key="M5" value="62.30727650238673" />
+      <entry key="M10" value="98.34061214529046" />
+      <entry key="M15" value="123.69798823785017" />
+      <entry key="M30" value="172.68248100046" />
+      <entry key="H1" value="219.98246265853683" />
+      <entry key="H2" value="255.55846412159775" />
+      <entry key="H4" value="277.8494670280546" />
+      <entry key="D1" value="299.34043785153494" />
+      <entry key="W1" value="303.3264952803649" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="7.205092990534717E-264" />
+      <entry key="MS500" value="2.3524907153428266E-53" />
+      <entry key="S2" value="6.96437230076703E-14" />
+      <entry key="S5" value="5.459942097164194E-6" />
+      <entry key="S10" value="0.0023593616741121224" />
+      <entry key="S30" value="0.1841888498959114" />
+      <entry key="S60" value="0.7972561361214573" />
+      <entry key="M2" value="1.9916861841033713" />
+      <entry key="M5" value="5.069621311790739" />
+      <entry key="M10" value="9.065191719418257" />
+      <entry key="M15" value="11.726579293046159" />
+      <entry key="M30" value="16.124928294574623" />
+      <entry key="H1" value="19.660619281595544" />
+      <entry key="H2" value="22.031560791963503" />
+      <entry key="H4" value="23.428734411865296" />
+      <entry key="D1" value="24.72478419212567" />
+      <entry key="W1" value="24.960338958927114" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.3194321543904916" />
+      <entry key="MS500" value="1.629004878736772" />
+      <entry key="S2" value="2.539459163904659" />
+      <entry key="S5" value="2.805860736692945" />
+      <entry key="S10" value="3.0848159707400518" />
+      <entry key="S30" value="7.819951159874282" />
+      <entry key="S60" value="17.114251441859924" />
+      <entry key="M2" value="32.725097227164675" />
+      <entry key="M5" value="67.2319268289022" />
+      <entry key="M10" value="107.29409138727982" />
+      <entry key="M15" value="135.33114819862743" />
+      <entry key="M30" value="188.74019226762297" />
+      <entry key="H1" value="239.5980496932709" />
+      <entry key="H2" value="277.5628289385583" />
+      <entry key="H4" value="301.2630722272949" />
+      <entry key="D1" value="324.0624478759766" />
+      <entry key="W1" value="328.28643114428223" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MAgi3SSR9kwelokJEZA2vodBFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "URP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Hanning\Unity\Bad-Dog -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Hanning\Unity\Bad-Dog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Hanning\Unity\Bad-Dog -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Hanning\Unity\Bad-Dog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="coreClr" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c331a75-f80e-450b-ba70-e639801711b7" name="Changes" comment="" />
+      <created>1794798912179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794798912179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
