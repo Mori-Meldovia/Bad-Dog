@@ -11,32 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c331a75-f80e-450b-ba70-e639801711b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Materials/MA_Food_Color.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Materials/MA_Food_Color.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bar_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bar_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bottle_002.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Bottle_002.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Burger_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Burger_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Cheesecake_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Cheesecake_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Chips_008.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Chips_008.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Donut_002.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Donut_002.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Ice_cream_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Ice_cream_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Sandwich_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Sandwich_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Shrimp_001.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Shrimp_001.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Watermelon_002.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoodAssets/Food_Free/Prefabs/Watermelon_002.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/NPC/Materials/MA_Owner_4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bad-Dog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bad-Dog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FoodController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FoodController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FoodManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FoodManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,98 +24,101 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoopMeterController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1332508771715954" />
-      <entry key="MS500" value="2.163191571820785" />
-      <entry key="S2" value="2.7465471373526085" />
-      <entry key="S5" value="2.8975002729457686" />
-      <entry key="S10" value="3.1368373183388805" />
-      <entry key="S30" value="7.739155148204446" />
-      <entry key="S60" value="16.488401989328324" />
-      <entry key="M2" value="30.91687781174623" />
-      <entry key="M5" value="62.30727650238673" />
-      <entry key="M10" value="98.34061214529046" />
-      <entry key="M15" value="123.69798823785017" />
-      <entry key="M30" value="172.68248100046" />
-      <entry key="H1" value="219.98246265853683" />
-      <entry key="H2" value="255.55846412159775" />
-      <entry key="H4" value="277.8494670280546" />
-      <entry key="D1" value="299.34043785153494" />
-      <entry key="W1" value="303.3264952803649" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000006149234" />
+      <entry key="S5" value="1.0003791336924999" />
+      <entry key="S10" value="1.049332035773944" />
+      <entry key="S30" value="2.763344238497801" />
+      <entry key="S60" value="6.311672909957652" />
+      <entry key="M2" value="13.128839677201828" />
+      <entry key="M5" value="36.77881209852955" />
+      <entry key="M10" value="78.64005745943966" />
+      <entry key="M15" value="113.10037494684111" />
+      <entry key="M30" value="182.1759584555536" />
+      <entry key="H1" value="249.77468788222427" />
+      <entry key="H2" value="301.3879959209158" />
+      <entry key="H4" value="334.1414052576657" />
+      <entry key="D1" value="366.04120687750685" />
+      <entry key="W1" value="371.9932189482175" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.205092990534717E-264" />
-      <entry key="MS500" value="2.3524907153428266E-53" />
-      <entry key="S2" value="6.96437230076703E-14" />
-      <entry key="S5" value="5.459942097164194E-6" />
-      <entry key="S10" value="0.0023593616741121224" />
-      <entry key="S30" value="0.1841888498959114" />
-      <entry key="S60" value="0.7972561361214573" />
-      <entry key="M2" value="1.9916861841033713" />
-      <entry key="M5" value="5.069621311790739" />
-      <entry key="M10" value="9.065191719418257" />
-      <entry key="M15" value="11.726579293046159" />
-      <entry key="M30" value="16.124928294574623" />
-      <entry key="H1" value="19.660619281595544" />
-      <entry key="H2" value="22.031560791963503" />
-      <entry key="H4" value="23.428734411865296" />
-      <entry key="D1" value="24.72478419212567" />
-      <entry key="W1" value="24.960338958927114" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.4227165920500894E-186" />
+      <entry key="S2" value="3.9452602188742877E-47" />
+      <entry key="S5" value="2.744291632068184E-19" />
+      <entry key="S10" value="5.238600389356717E-10" />
+      <entry key="S30" value="8.215920350799565E-4" />
+      <entry key="S60" value="0.037286506241389204" />
+      <entry key="M2" value="0.40257646501409033" />
+      <entry key="M5" value="2.7677012562964327" />
+      <entry key="M10" value="7.1482929303720955" />
+      <entry key="M15" value="10.701924893662891" />
+      <entry key="M30" value="17.29674526690504" />
+      <entry key="H1" value="22.992350786206547" />
+      <entry key="H2" value="26.940765277949772" />
+      <entry key="H4" value="29.307130844624" />
+      <entry key="D1" value="31.52600979102445" />
+      <entry key="W1" value="31.93163435536197" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.3194321543904916" />
-      <entry key="MS500" value="1.629004878736772" />
-      <entry key="S2" value="2.539459163904659" />
-      <entry key="S5" value="2.805860736692945" />
-      <entry key="S10" value="3.0848159707400518" />
-      <entry key="S30" value="7.819951159874282" />
-      <entry key="S60" value="17.114251441859924" />
-      <entry key="M2" value="32.725097227164675" />
-      <entry key="M5" value="67.2319268289022" />
-      <entry key="M10" value="107.29409138727982" />
-      <entry key="M15" value="135.33114819862743" />
-      <entry key="M30" value="188.74019226762297" />
-      <entry key="H1" value="239.5980496932709" />
-      <entry key="H2" value="277.5628289385583" />
-      <entry key="H4" value="301.2630722272949" />
-      <entry key="D1" value="324.0624478759766" />
-      <entry key="W1" value="328.28643114428223" />
+      <entry key="MS100" value="1.6445722373848769E-4" />
+      <entry key="MS500" value="0.17506954011090056" />
+      <entry key="S2" value="0.646848608224982" />
+      <entry key="S5" value="0.840417205564695" />
+      <entry key="S10" value="0.9628393505211987" />
+      <entry key="S30" value="2.6962775377593524" />
+      <entry key="S60" value="6.275082076575671" />
+      <entry key="M2" value="13.45712217887644" />
+      <entry key="M5" value="39.46592424013842" />
+      <entry key="M10" value="85.70361121517671" />
+      <entry key="M15" value="123.72105054835961" />
+      <entry key="M30" value="199.4053820054044" />
+      <entry key="H1" value="272.7186373274688" />
+      <entry key="H2" value="328.29841992627297" />
+      <entry key="H4" value="363.4313207723948" />
+      <entry key="D1" value="397.56400524344866" />
+      <entry key="W1" value="403.9243852603946" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3MAgi3SSR9kwelokJEZA2vodBFO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "URP",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;URP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Unity.exe" />
