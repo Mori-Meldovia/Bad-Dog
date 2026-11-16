@@ -75,6 +75,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poopValue: 10
-  hoverAmplitude: 0.03
+  foodAmount: 10
+  hoverAmplitude: 0.02
   hoverSpeed: 1.5
   rotateSpeed: 0.04

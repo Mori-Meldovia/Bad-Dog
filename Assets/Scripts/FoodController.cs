@@ -8,12 +8,11 @@ public class FoodController : MonoBehaviour
 
     [Header("Poop Meter")]
     [SerializeField] private int poopValue;
-    [SerializeField] private GameObject poopMeter;
     [SerializeField] private float foodAmount;
     
     [Header("Food Hover")]
     [SerializeField]
-    private float hoverAmplitude = 0.03f;
+    private float hoverAmplitude = 0.02f;
     [SerializeField]
     private float hoverSpeed = 1.5f;
     [SerializeField]
@@ -22,13 +21,15 @@ public class FoodController : MonoBehaviour
     private PoopMeterController _poopController;
     private float _startTime;
     private bool _eating;
+    private float _initial_y;
     
     // Start is called before the first frame update
     void Start()
     {
-       _poopController = poopMeter.GetComponent<PoopMeterController>();
+       _poopController = GameObject.FindWithTag("PoopMeter").GetComponent<PoopMeterController>();
        _startTime = Time.time;
        _eating = false;
+       _initial_y = transform.position.y;
     }
 
     // Update is called once per frame
@@ -42,7 +43,7 @@ public class FoodController : MonoBehaviour
         if (!_eating)
         {
             // Makes food hover and rotate
-            transform.position = new Vector3(transform.position.x, hoverAmplitude * Mathf.Sin(hoverSpeed * (Time.time - _startTime)), transform.position.z);
+            transform.position = new Vector3(transform.position.x, _initial_y + hoverAmplitude * Mathf.Sin(hoverSpeed * (Time.time - _startTime)), transform.position.z);
             transform.Rotate(new Vector3(0f, rotateSpeed, 0f));
         }
     }
