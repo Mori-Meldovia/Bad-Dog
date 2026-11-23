@@ -1,29 +1,25 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PoopMeterController : MonoBehaviour
 {
-    public int poopMeterValue = 0;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float poopMeterValue = 0f;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public void incrementMeter(int amount)
+    public void incrementMeter(float amount)
     {
         poopMeterValue += amount;
+
+        Debug.Log("Poop meter: " + poopMeterValue);
     }
 
-    public void decrementMeter(int amount)
+    public void decrementMeter(float amount)
     {
         poopMeterValue -= amount;
+
+        if (poopMeterValue < 0f)
+        {
+            poopMeterValue = 0f;
+        }
+
+        Debug.Log("Poop meter: " + poopMeterValue);
     }
 }

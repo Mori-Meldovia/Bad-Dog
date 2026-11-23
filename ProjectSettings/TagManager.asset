@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - PoopMeter
+  - Poop
+  - Food
   layers:
   - Default
   - TransparentFX

@@ -12,8 +12,18 @@
   <component name="ChangeListManager">
     <list default="true" id="1c331a75-f80e-450b-ba70-e639801711b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bad-Dog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bad-Dog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DogController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DogController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FoodController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FoodController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PoopMeterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PoopMeterController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,63 +42,64 @@
     <commands />
     <urls />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001754986801916" />
-      <entry key="S2" value="1.5106703432467312" />
-      <entry key="S5" value="4.39933211969527" />
-      <entry key="S10" value="8.933872241176388" />
-      <entry key="S30" value="19.27831095808426" />
-      <entry key="S60" value="26.62752656970064" />
-      <entry key="M2" value="36.80168871433177" />
-      <entry key="M5" value="69.24730415258068" />
-      <entry key="M10" value="119.22656071963462" />
-      <entry key="M15" value="164.36176079260477" />
-      <entry key="M30" value="280.4521018889902" />
-      <entry key="H1" value="430.18151767809167" />
-      <entry key="H2" value="568.027062957493" />
-      <entry key="H4" value="665.8063774433932" />
-      <entry key="D1" value="768.5958935113529" />
-      <entry key="W1" value="788.5923242046593" />
+      <entry key="MS100" value="1.1156552190914222" />
+      <entry key="MS500" value="2.2024216694065677" />
+      <entry key="S2" value="3.770607402898207" />
+      <entry key="S5" value="6.416773769790739" />
+      <entry key="S10" value="10.866269392836388" />
+      <entry key="S30" value="21.738260525914246" />
+      <entry key="S60" value="29.55332286328579" />
+      <entry key="M2" value="40.05716716471723" />
+      <entry key="M5" value="72.68833745730585" />
+      <entry key="M10" value="122.74633947457146" />
+      <entry key="M15" value="167.92080005933354" />
+      <entry key="M30" value="284.07627565808446" />
+      <entry key="H1" value="433.89342324628814" />
+      <entry key="H2" value="571.8368978400363" />
+      <entry key="H4" value="669.6949374796103" />
+      <entry key="D1" value="772.5744541568471" />
+      <entry key="W1" value="792.589181788131" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.4611562399885974E-68" />
-      <entry key="S2" value="1.0994519291852049E-17" />
-      <entry key="S5" value="1.659977854901391E-7" />
-      <entry key="S10" value="4.537880405816217E-4" />
-      <entry key="S30" value="0.13993141917160093" />
-      <entry key="S60" value="0.7504782484956591" />
-      <entry key="M2" value="2.127259689277113" />
-      <entry key="M5" value="6.037530888329203" />
-      <entry key="M10" value="11.65385610070768" />
-      <entry key="M15" value="17.056093293704517" />
-      <entry key="M30" value="31.234392265172435" />
-      <entry key="H1" value="48.5737755308863" />
-      <entry key="H2" value="63.47396066917367" />
-      <entry key="H4" value="73.53243354654101" />
-      <entry key="D1" value="83.7270265690337" />
-      <entry key="W1" value="85.67009607172517" />
+      <entry key="MS500" value="1.1834236584046987E-70" />
+      <entry key="S2" value="3.298277128293173E-18" />
+      <entry key="S5" value="1.0255259478115582E-7" />
+      <entry key="S10" value="3.5667709887097436E-4" />
+      <entry key="S30" value="0.1291385676929632" />
+      <entry key="S60" value="0.7209555221105908" />
+      <entry key="M2" value="2.084998237021136" />
+      <entry key="M5" value="5.9892637458663645" />
+      <entry key="M10" value="11.607179149063024" />
+      <entry key="M15" value="17.010519889514363" />
+      <entry key="M30" value="31.19263564215864" />
+      <entry key="H1" value="48.5412960262431" />
+      <entry key="H2" value="63.452735764144364" />
+      <entry key="H4" value="73.52013835182477" />
+      <entry key="D1" value="83.72469310479815" />
+      <entry key="W1" value="85.66975497945148" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.007139308204917188" />
-      <entry key="MS500" value="0.3723114205913197" />
-      <entry key="S2" value="1.278225845826899" />
-      <entry key="S5" value="4.24532877382612" />
-      <entry key="S10" value="8.790333462957253" />
-      <entry key="S30" value="19.29837557258559" />
-      <entry key="S60" value="27.275682220393392" />
-      <entry key="M2" value="38.83893693629038" />
-      <entry key="M5" value="75.19364136786383" />
-      <entry key="M10" value="130.7910283095622" />
-      <entry key="M15" value="181.3296527864194" />
-      <entry key="M30" value="311.6022484984511" />
-      <entry key="H1" value="478.68507454124824" />
-      <entry key="H2" value="631.4521172356896" />
-      <entry key="H4" value="739.3092524103447" />
-      <entry key="D1" value="852.3170717772852" />
-      <entry key="W1" value="874.2615587593214" />
+      <entry key="MS100" value="1.0090813550867888" />
+      <entry key="MS500" value="2.005988634621117" />
+      <entry key="S2" value="3.35818280431906" />
+      <entry key="S5" value="6.102951804923668" />
+      <entry key="S10" value="10.625085964291422" />
+      <entry key="S30" value="21.709101073672187" />
+      <entry key="S60" value="30.151485336607035" />
+      <entry key="M2" value="42.04152629063188" />
+      <entry key="M5" value="78.58212942634779" />
+      <entry key="M10" value="134.26197772091683" />
+      <entry key="M15" value="184.84167918512503" />
+      <entry key="M30" value="315.1839399408141" />
+      <entry key="H1" value="482.36412820170256" />
+      <entry key="H2" value="635.2405338413162" />
+      <entry key="H4" value="743.1854173195529" />
+      <entry key="D1" value="856.2932816407591" />
+      <entry key="W1" value="878.258072756655" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,31 +111,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Food-Integration-with-Poop-and-Dog&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "ava/dog-player-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Unity.exe" />
-      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Hanning\Unity\Bad-Dog -debugCodeOptimization" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Hanning\Unity\Bad-Dog" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\norrisrh\Downloads\Bad-Dog -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\norrisrh\Downloads\Bad-Dog" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
@@ -133,8 +144,8 @@
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Unity.exe" />
-      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Hanning\Unity\Bad-Dog -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Hanning\Unity\Bad-Dog" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\norrisrh\Downloads\Bad-Dog -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\norrisrh\Downloads\Bad-Dog" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
@@ -169,6 +180,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
